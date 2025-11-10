@@ -109,26 +109,6 @@ SkillSwap creates a barter system for education where students can:
 - **npm** - Package management
 - **dotenv** - Environment variables
 
----
-
-## 📸 Screenshots
-
-### Landing Page
-![Landing Page](./screenshots/landing.png)
-
-### Dashboard
-![Dashboard](./screenshots/dashboard.png)
-
-### Explore Students
-![Explore](./screenshots/explore.png)
-
-### Real-Time Chat
-![Chat](./screenshots/chat.png)
-
-### Profile Management
-![Profile](./screenshots/profile.png)
-
----
 
 ## 🚀 Getting Started
 
@@ -453,3 +433,4 @@ If you have any questions or need help, please:
 3. Contact me via email
 
   
+
